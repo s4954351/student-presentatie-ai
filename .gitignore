@@ -1,9 +1,6 @@
-# Python
-__pycache__/
-*.pyc
-
-# Environment files
-.env
-
-# Uploads map (niet op GitHub zetten)
+venv/
 backend/uploads/
+backend/logs/
+*.pyc
+__pycache__/
+.env
